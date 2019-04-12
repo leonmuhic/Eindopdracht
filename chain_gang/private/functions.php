@@ -1,5 +1,6 @@
 <?php
 // voor een commit
+// 2e branch comment ja dit is anders
 function url_for($script_path) {
   // add the leading '/' if not present
   if($script_path[0] != '/') {
